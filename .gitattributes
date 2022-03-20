@@ -1,2 +1,2 @@
-*.txt text diff working-tree-encoding=UTF-16 eol=CRLF
-*.tbl text diff working-tree-encoding=UTF-16 eol=CRLF
+*.txt text diff working-tree-encoding=UTF-16 eol=LF
+*.tbl text diff working-tree-encoding=UTF-16 eol=LF
